@@ -1,0 +1,11 @@
+name: SimpleHeal
+version: '${project.version}'
+main: dev.fezzy.SimpleHeal
+api-version: '1.20'
+commands:
+  heal:
+    description: Heal yourself or another Player
+    usage: /heal
+  feed:
+    description: Feed yourself or another Player
+    usage: /feed

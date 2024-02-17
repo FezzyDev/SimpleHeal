@@ -1,0 +1,20 @@
+# SIMPLEHEAL CONFIG #
+
+# COOLDOWN DURATION #
+healCooldown: 60
+feedCooldown: 60
+
+# ERROR MESSAGES #
+playersOnly: §cThis is for Players only Console!
+noPermission: §cYou don't have permission to use that command.
+playerNotFound: §cPlayer was not found
+
+# PLAYER MESSAGES #
+healMessage: §aYou have been healed.
+feedMessage: §aYou have been fed.
+cantHeal: §eYou cannot heal again for another
+cantFeed: §eYou cannot satisfy your hunger again for another
+healedBy: §aYou have been healed by
+youHealed: §aYou have just healed
+fedBy: §aYou have been fed by
+youFed: §aYou have just fed
