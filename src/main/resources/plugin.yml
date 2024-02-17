@@ -2,6 +2,7 @@ name: SimpleHeal
 version: '${project.version}'
 main: dev.fezzy.SimpleHeal
 api-version: '1.20'
+author: FezzyDev
 commands:
   heal:
     description: Heal yourself or another Player
