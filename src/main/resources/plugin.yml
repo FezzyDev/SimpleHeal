@@ -1,7 +1,7 @@
 name: SimpleHeal
 version: '${project.version}'
 main: dev.fezzy.SimpleHeal
-api-version: '1.20'
+api-version: '1.21'
 author: FezzyDev
 commands:
   heal:
